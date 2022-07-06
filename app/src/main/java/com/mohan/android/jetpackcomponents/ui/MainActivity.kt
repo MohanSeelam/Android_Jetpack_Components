@@ -1,7 +1,8 @@
-package com.mohan.android.jetpackcomponents
+package com.mohan.android.jetpackcomponents.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.mohan.android.jetpackcomponents.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
